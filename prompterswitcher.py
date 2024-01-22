@@ -7,7 +7,7 @@ def beende_prozess(prozessname):
         subprocess.run(["taskkill", "/f", "/im", prozessname], check=True)
         print(f"Process {prozessname} ended successfully.")
     except subprocess.CalledProcessError:
-        print(f"Coudl not reminate process {prozessname} . Maybe it's not running.")
+        print(f"Could not terminate process {prozessname} . Maybe it's not running.")
 
 
 def starte_prozess(prozesspfad):
