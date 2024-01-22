@@ -5,7 +5,7 @@ This Python code was created to give you an idea how you could code your own Swi
 for the Elgato Prompter. I created this for my own usage, so use and modify this at
 your own risk and don't forget to change the path to your textfiles and "Camera Hub.exe".
 
-This code will:
+<b>This code will:</b>
 
 1. exit Camera Hub.exe
 2. ask you which of your text-files you want to load into "AppSettings.json"
