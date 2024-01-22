@@ -21,3 +21,12 @@ Have fun and create something great for you or the people out there.
 If you like, check out my crypto project at https://www.mygcoin.com
 
 Stay awesome! And please give me credits if using this idea :)
+
+
+<b>Disclaimer for Provided Code</b>
+
+Please be aware that the code provided is for demonstration and educational purposes only and should be considered as a proof of concept. I do not assume any responsibility for the functionality, error-free operation, or any consequences arising from the use of this code. Use of the code is at your own risk.
+
+It is recommended to test and evaluate the code in a safe and controlled environment before deploying it in a production setting or for critical applications. I will not be liable for any direct or indirect damages that may result from the use of the code, including but not limited to operational disruptions, data loss, or system failures.
+
+This code is not intended for use in situations where errors or inaccuracies could lead to harm to individuals, property, or the environment. Each user is responsible for complying with relevant laws, regulations, and best practices.
