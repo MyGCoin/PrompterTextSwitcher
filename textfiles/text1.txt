@@ -1,0 +1,4 @@
+Line 1
+Line 2
+
+Before this (line4) is an empty line :)

@@ -1,0 +1,2 @@
+This is a rather long text I created to test my section with long text and to show you it is working as expected. In a serene valley, a small river meandered through lush fields. Nearby, a group of children played under the watchful eyes of their elders, while birds chirped harmoniously, creating a symphony of nature's tranquility
+Section 2 / Line 2 for textfile text3.txt
