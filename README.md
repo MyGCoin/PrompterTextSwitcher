@@ -30,3 +30,6 @@ Please be aware that the code provided is for demonstration and educational purp
 It is recommended to test and evaluate the code in a safe and controlled environment before deploying it in a production setting or for critical applications. I will not be liable for any direct or indirect damages that may result from the use of the code, including but not limited to operational disruptions, data loss, or system failures.
 
 This code is not intended for use in situations where errors or inaccuracies could lead to harm to individuals, property, or the environment. Each user is responsible for complying with relevant laws, regulations, and best practices.
+
+<b>Known issues:</b>
+- Exiting the Camera Hub.exe might keep its icon in the systray. A mouse over will clean it up.
