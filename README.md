@@ -20,4 +20,4 @@ This code will:
 Have fun and create something great for you or the people out there.
 If you like, check out my crypto project at https://www.mygcoin.com
 
-Stay awesome! :)
+Stay awesome! And please give me credits if using this idea :)
